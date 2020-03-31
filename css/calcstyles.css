@@ -1,0 +1,49 @@
+.row1 {
+    background-color: darkgrey;
+    color: white;
+}
+
+.right {
+    float: right;
+    margin: 15px;
+    text-align: center;
+
+}
+
+.middle-col {
+    background-color: thistle;
+    text-align: center;
+}
+
+.middle-colesp {
+    background-color: tomato;
+    text-align: center;
+    color: white;
+    
+}
+
+.bottom-row {
+    text-align: center;
+    background-color: thistle;
+}
+
+.middle-col, .middle-colesp, .bottom-row {
+    font-size: 50px;
+    border: 1px solid grey;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.no-left {
+    border-left: none;
+}
+
+.no-right {
+    border-right: none;
+}
+
+.no-top {
+    border-top: none;
+}
